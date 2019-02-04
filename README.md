@@ -1,2 +1,2 @@
-# resume
+# Resume
 resume as a github page
